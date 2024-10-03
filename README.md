@@ -1,0 +1,2 @@
+# Human-Activity-Classification-Using-RF-Signals-and-Machine-Learning
+This project focuses on detecting and classifying human activities—such as walking, sleeping, and falling—using radio frequency (RF) signals and machine learning techniques. The RF signals, collected by a specialized radar device, are used as input features for training a machine learning model capable of identifying distinct human activities.
